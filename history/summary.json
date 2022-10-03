@@ -2,7 +2,7 @@
   {
     "name": "Likemetric",
     "url": "https://likemetric.com/server/",
-    "icon": "https://favicons.githubusercontent.com/likemetric.com",
+    "icon": "https://icons.duckduckgo.com/ip3/likemetric.com.ico",
     "slug": "likemetric",
     "status": "up",
     "uptime": "99.95%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 179,
-    "timeDay": 75,
-    "timeWeek": 135,
-    "timeMonth": 190,
+    "timeDay": 163,
+    "timeWeek": 122,
+    "timeMonth": 186,
     "timeYear": 179,
     "dailyMinutesDown": {
       "2022-04-28": 79,
