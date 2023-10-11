@@ -6,17 +6,17 @@
     "slug": "likemetric",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.93%",
-    "time": 168,
-    "timeDay": 192,
-    "timeWeek": 147,
-    "timeMonth": 149,
-    "timeYear": 165,
+    "time": 169,
+    "timeDay": 227,
+    "timeWeek": 169,
+    "timeMonth": 155,
+    "timeYear": 166,
     "dailyMinutesDown": {
-      "2023-10-11": 0,
+      "2023-10-11": 13,
       "2023-04-29": 361
     }
   }
