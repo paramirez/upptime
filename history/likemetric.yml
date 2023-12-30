@@ -1,7 +1,7 @@
 url: https://likemetric.com/server/
-status: up
-code: 200
-responseTime: 114
-lastUpdated: 2023-12-29T23:05:40.575Z
+status: down
+code: 502
+responseTime: 111
+lastUpdated: 2023-12-30T20:48:25.651Z
 startTime: 2022-02-12T19:34:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
