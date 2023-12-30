@@ -4,19 +4,19 @@
     "url": "https://likemetric.com/server/",
     "icon": "https://icons.duckduckgo.com/ip3/likemetric.com.ico",
     "slug": "likemetric",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.93%",
     "time": 165,
-    "timeDay": 113,
-    "timeWeek": 151,
-    "timeMonth": 138,
-    "timeYear": 166,
+    "timeDay": 163,
+    "timeWeek": 163,
+    "timeMonth": 142,
+    "timeYear": 167,
     "dailyMinutesDown": {
-      "2023-12-30": 0,
+      "2023-12-30": 15,
       "2023-04-29": 361
     }
   }
