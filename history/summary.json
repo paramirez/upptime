@@ -4,17 +4,19 @@
     "url": "https://likemetric.com/server/",
     "icon": "https://icons.duckduckgo.com/ip3/likemetric.com.ico",
     "slug": "likemetric",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 172,
-    "timeDay": 291,
-    "timeWeek": 247,
-    "timeMonth": 204,
+    "timeDay": 183,
+    "timeWeek": 225,
+    "timeMonth": 200,
     "timeYear": 169,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-02": 0
+    }
   }
 ]
